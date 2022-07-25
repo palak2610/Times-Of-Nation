@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Hundreds jostle for a drop of water in India state",
+    "description": "People in a village in India’s Maharashtra state have to undergo a desperate daily struggle for water.",
+    "url": "http://www.bbc.co.uk/news/world-asia-india-61755730",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8E70/production/_125346463_p0cd3ttd.jpg",
+    "publishedAt": "2022-06-11T03:07:15.8127607Z",
+    "content": "People in Khadimal village in the western Indian state of Maharashtra have been forced to risk their lives every day for one bucket of water. \r\nThe village is in Amravati district in Maharashtra's dr… [+775 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Capitol riot hearing: Trump dismisses daughter Ivanka's testimony",
+    "description": "Mr Trump says his daughter \"had long since checked out\" after she distanced herself from his claims.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61767628",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2A2B/production/_125359701_mediaitem125359700.jpg",
+    "publishedAt": "2022-06-11T00:37:21.1955442Z",
+    "content": "Media caption, Watch: Five key moments from the US Capitol riot hearing\r\nFormer US President Donald Trump has hit back at his daughter Ivanka after she distanced herself from his unfounded claims of … [+2332 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Rwanda asylum plan: UK court allows removal flight planned for Tuesday",
+    "description": "Campaigners fail in their High Court bid to halt the removals set for Tuesday but will appeal.",
+    "url": "http://www.bbc.co.uk/news/uk-61763818",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/156E9/production/_125358778_hi076575568.jpg",
+    "publishedAt": "2022-06-10T23:07:26.4458359Z",
+    "content": "By Adam DurbinBBC News\r\nA flight to take asylum seekers from the UK to Rwanda next Tuesday has been allowed to go ahead by the High Court.\r\nCampaigners failed in an initial legal bid to halt the remo… [+5500 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Justin Bieber reveals facial paralysis after shows cancelled",
+    "description": "The pop star posted a video to Instagram to show how only half of his face could move.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61767457",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1694F/production/_125359429_microsoftteams-image-6.png",
+    "publishedAt": "2022-06-10T23:07:24.3354654Z",
+    "content": "Singer Justin Bieber has revealed he is suffering from facial paralysis after cancelling shows this week.\r\nThe 28-year-old said in an Instagram video that the condition is due to a diagnosis of Ramsa… [+2198 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Bolsonaro: Closer US-Brazil ties unlikely after 'Trump of the Tropics' meets Biden",
+    "description": "Brazil's president Jair Bolsonaro, has questioned the validity of the US leader's victory.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61738341",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BFC3/production/_125319094_gettyimages-1241210368.jpg",
+    "publishedAt": "2022-06-10T23:07:22.1953725Z",
+    "content": "By Katy WatsonBBC South America correspondent\r\nAfter several months of uncertainty as to whether Jair Bolsonaro would be attending the Summit of the Americas, a bilateral meeting with US President Jo… [+3749 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Putin and Peter the Great: Russian leader likens himself to 18th Century tsar",
+    "description": "With a nod to history, Putin now feels bold enough to admit that his operation is an occupation.",
+    "url": "http://www.bbc.co.uk/news/world-europe-61767191",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3A25/production/_125358841_tv076620321.jpg",
+    "publishedAt": "2022-06-10T22:07:25.0384774Z",
+    "content": "By Sarah RainsfordEastern Europe correspondent\r\nVladimir Putin's admiration for Peter the Great is well known but he now seems to have ideas of 'Great'-ness himself. \r\nHe has openly compared himself … [+3863 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Car insurer Geico may have to pay $5m after woman contracts STI in a vehicle",
+    "description": "US automobile insurance firm Geico is contesting the decision that granted the woman the settlement.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61763333",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EA29/production/_125354995_geicomascot.jpg",
+    "publishedAt": "2022-06-10T19:37:20.0395587Z",
+    "content": "A woman may be in for a $5.2m (£4.2m) payout after she allegedly contracted a sexually transmitted infection while having sex in a car.\r\nThe US woman, identified in court files as 'MO', said she caug… [+2186 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Cholera in Mariupol: Ruined city at risk of major cholera outbreak - UK",
+    "description": "Conditions in the ruined Ukrainian city, now in Russian hands, could lead to a resurgence of the disease.",
+    "url": "http://www.bbc.co.uk/news/world-europe-61762787",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A3ED/production/_125356914_mariupolambulance.jpg",
+    "publishedAt": "2022-06-10T18:07:17.7576592Z",
+    "content": "By Ben TobiasBBC News\r\nThe Ukrainian port city of Mariupol, all but destroyed by weeks of shelling and now under Russian control, is at risk of a major cholera outbreak, the UK defence ministry says.… [+4585 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Texas school shooting: Uvalde school police chief defends mass shooting response",
+    "description": "The Uvalde school police chief told the Texas Tribune that officers responded without hesitation",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-61685119",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5BC4/production/_125329432_gettyimages-1240953478.jpg",
+    "publishedAt": "2022-06-10T16:37:25.0394904Z",
+    "content": "Amid widespread criticism, a Texas school district police chief has defended the actions of officers responding to the Uvalde mass shooting. \r\nOfficers reportedly delayed confronting the gunman despi… [+2900 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Covid: US to drop test requirement for air travellers",
+    "description": "The change, which comes into effect on Sunday, comes after pressure from the travel industry.",
+    "url": "http://www.bbc.co.uk/news/business-61762137",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C3EB/production/_125355105_gettyimages-1396924573-1.jpg",
+    "publishedAt": "2022-06-10T16:07:18.3519093Z",
+    "content": "The US will no longer require air travellers to have proof of a negative Covid-19 test before entering the country from abroad.\r\nOfficials said they were dropping the requirement due to the \"tremendo… [+1353 chars]"
+    }
+    ]
+}
